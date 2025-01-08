@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exam090921</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+</resources>
